@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class BallController : MonoBehaviour
+public class Ball : MonoBehaviour
 {
     public float maxSpeed = 20f;
 
